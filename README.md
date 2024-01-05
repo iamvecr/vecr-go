@@ -11,4 +11,4 @@ This work is licensed under a
 
 #### Credits:
 - Generated using [Hugo](https://gohugo.io/) - [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)
-- [Blowfish Theme](https://github.com/nunocoracao/blowfish) by [@nunocoracao](https://github.com/nunocoracao) - [The MIT License (MIT)](themes/blowfish/LICENSE)
+- [Blowfish Theme](https://blowfish.page/) by [@nunocoracao](https://n9o.xyz/) - [The MIT License (MIT)](https://github.com/nunocoracao/blowfish/blob/main/LICENSE)
