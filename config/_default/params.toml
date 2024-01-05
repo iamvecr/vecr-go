@@ -1,0 +1,22 @@
+contentTypeName = "posts"
+subtitle = ""
+colorScheme = "Marvel"
+autoSwitchAppearance = true
+enableCodeCopy = true
+robots = true
+copyright = "© 2016 -  { year } Vladut Emanuel Cioanca Radu"
+
+
+# [header]
+# logo = "logo.webp"
+
+[article]
+showDate = false
+showWordCount = false
+showReadingTime = false
+
+[footer]
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
