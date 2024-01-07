@@ -1,3 +1,5 @@
+# Icons from https://fontawesome.com/
+
 [[main]]
   identifier = "post"
   name = "Post"
@@ -11,6 +13,29 @@
   weight = 10
   
 [[main]]
-  pre = "github"
-  url = "https://github.com/iamvecr"
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/vecr/"
   weight = 30
+
+[[main]]
+  identifier = "mastodon" 
+  pre = "mastodon"
+  url = "https://mas.to/@vecr"
+  weight = 31
+
+[[main]]
+  identifier = "twitter"
+  pre = "x-twitter"
+  url = "https://www.x.com/whoisvecr/"
+  weight = 32
+
+
+
+
+# FOOTER
+# [[footer]]
+#   identifier = "post"
+#   name = "Post"
+#   pageRef = "/posts"
+#   weight = 5
