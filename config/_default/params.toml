@@ -4,7 +4,8 @@ colorScheme = "Marvel"
 autoSwitchAppearance = true
 enableCodeCopy = true
 robots = true
-copyright = "This work is licensed under CC BY-NC-SA 4.0 unless otherwise noted."
+copyright = "This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted."
+enableSearch = true
 
 
 [homepage]
@@ -12,7 +13,7 @@ layout = 'profile'
 showRecent = true
 
 # [header]
-# logo = "logo.webp"
+
 
 [article]
 showDate = false

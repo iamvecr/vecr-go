@@ -29,9 +29,12 @@
   pre = "x-twitter"
   url = "https://www.x.com/whoisvecr/"
   weight = 32
-
-
-
+  
+[[main]]
+  identifier = "rss"
+  pre = "rss"
+  url = "/index.xml"
+  weight = 33
 
 # FOOTER
 # [[footer]]

@@ -5,13 +5,12 @@ paginate = 10
 languageCode = "en"
 theme = "blowfish"
 enableEmoji = true
+outputs.home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
-
-
 
 [permalinks]
   [permalinks.page]
