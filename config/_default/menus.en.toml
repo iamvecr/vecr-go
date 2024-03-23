@@ -1,8 +1,8 @@
 # Icons from https://fontawesome.com/
 
 [[main]]
-  identifier = "post"
-  name = "Post"
+  identifier = "posts"
+  name = "Posts"
   pageRef = "/posts"
   weight = 5
 
