@@ -10,7 +10,7 @@ enableSearch = true
 
 [homepage]
 layout = 'profile'
-showRecent = true
+showRecent = false
 
 # [header]
 
@@ -22,6 +22,6 @@ showReadingTime = false
 
 [footer]
 showCopyright = true
-showThemeAttribution = false
+showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true

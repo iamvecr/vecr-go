@@ -1,12 +1,11 @@
 +++
-categories = ["Import 2023-10-17 19:33"]
-date = 2022-09-26T05:30:45Z
+categories = [ ]
+date = 2022-09-26T05:30:45.000Z
 description = ""
 draft = false
 slug = "kali-apple-silicon"
-tags = ["Import 2023-10-17 19:33"]
+tags = [ ]
 title = "Kali on Apple Silicon? Not as straightforward as you might think"
-
 +++
 
 

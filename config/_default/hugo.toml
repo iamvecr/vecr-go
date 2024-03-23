@@ -1,4 +1,4 @@
-baseURL = "https://cf.go.vecr.me"
+baseURL = "https://vecr.me"
 title = "VECR -  A journey"
 author = "Vladut Emanuel Cioanca Radu"
 paginate = 10
@@ -16,7 +16,7 @@ series = "series"
   [permalinks.page]
     posts = '/:filename/'
   [permalinks.section]
-    posts = '/articles/'
+    posts = '/posts/'
     tutorials = '/training/'
 
 
