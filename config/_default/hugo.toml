@@ -1,4 +1,4 @@
-baseURL = "https://render.go.vecr.me"
+baseURL = "https://cf.go.vecr.me"
 title = "VECR -  A journey"
 author = "Vladut Emanuel Cioanca Radu"
 paginate = 10
