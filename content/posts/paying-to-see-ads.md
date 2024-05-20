@@ -2,7 +2,7 @@
 categories = ["Import 2023-10-17 19:33"]
 date = 2022-11-22T06:29:13Z
 description = ""
-draft = false
+draft = true
 image = "https://images.unsplash.com/photo-1626076597347-fc204a64d0a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxhZHN8ZW58MHx8fHwxNjY5MDM4Mjgw&ixlib=rb-4.0.3&q=80&w=2000"
 slug = "paying-to-see-ads"
 tags = ["Import 2023-10-17 19:33"]

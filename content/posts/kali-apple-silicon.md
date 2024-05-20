@@ -2,7 +2,7 @@
 categories = [ ]
 date = 2022-09-26T05:30:45.000Z
 description = ""
-draft = false
+draft = true
 slug = "kali-apple-silicon"
 tags = [ ]
 title = "Kali on Apple Silicon? Not as straightforward as you might think"
