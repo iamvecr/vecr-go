@@ -18,4 +18,4 @@ Feedback is always welcome, feel free to connect. Here's where you can to stalk 
 - X: [@whoisvecr](https://x.com/whoisvecr) ?
 - GitHub: [@iamvecr](https://github.com/iamvecr) !
 - Mastodon: [@vecr](https://mas.to/@vecr)
-- E-mail: You can use either one from profiles on LinkedIn or GitHub :grinning:
+- E-mail: You can use either one from my LinkedIn or GitHub profiles :grinning:
