@@ -23,18 +23,12 @@
   pre = "mastodon"
   url = "https://mas.to/@vecr"
   weight = 31
-
-[[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://x.com/whoisvecr/"
-  weight = 32
   
-[[main]]
-  identifier = "rss"
-  pre = "rss"
-  url = "/index.xml"
-  weight = 33
+# [[main]]
+#   identifier = "rss"
+#   pre = "rss"
+#   url = "/index.xml"
+#   weight = 33
 
 # FOOTER
 # [[footer]]
